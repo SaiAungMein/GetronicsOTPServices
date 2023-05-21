@@ -45,7 +45,7 @@ To use the OTP Management API, follow these steps:
 2. Install .NET 6 runtime on local machine
 3. Changed connection string in appSetting.json
 4. Run Update-Database in Visual Stuido or restore database up to MSSQL (find bak file in AppData folder)
-5. Access the API endpoints as described above.
+5. Run the application and access the API endpoints as described above by using Swagger UI.
 
 ## Noted
 1. To fail sending email, you can change email password in appSetting.json
