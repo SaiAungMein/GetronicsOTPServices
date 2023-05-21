@@ -8,3 +8,4 @@
 #Usage
 1. To fail sending email, you can change email password in appSetting.json
 2. You can change valid email domain or add multiple accept domain in appSetting.json
+3. To see the logs, plase find in GetronicsOTPServices\logs or GetronicsOTPServices\bin\Debug\net6.0\logs 
