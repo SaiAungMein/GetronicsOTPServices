@@ -1,0 +1,8 @@
+bin
+.vscode
+obj
+*.db
+.history
+.vs
+log
+log/*
